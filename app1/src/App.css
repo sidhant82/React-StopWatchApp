@@ -1,0 +1,59 @@
+/* App.css */
+
+.d1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 600px;
+    height: 300px;
+   /* border: 4px dotted blue;*/
+    border: 4px dashed blue;
+    border-radius: 20px;
+  /*  background-image: repeating-conic-gradient(#FF9933 30%,#138808 50%);*/
+   background-image: radial-gradient(#FFFFFF,green,#FF9933);
+   /*-webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));*/
+   box-shadow: 50px 50px #FF9933;
+
+
+  }
+
+  .d2 {
+    font-size: 3rem;
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    margin-top: 2px;
+
+  }
+
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px red;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 5px;
+    margin-top: 30px;
+    cursor: pointer;
+    background-color:deeppink;
+    color: black;
+    border:2px solid  yellow;
+    border-radius: 10px;
+    text-shadow: 2px 2px blue;
+
+  }
+  
+  button:hover {
+    background:linear-gradient(#FF9933,#FFFFFF,#138808);
+  }
+  
+  h1 {
+    font-size: 60px;
+  }
+  
+  
